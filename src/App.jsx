@@ -1,4 +1,3 @@
-
 {
   "weekLabel": "Week 94",
   "checkIn": {
